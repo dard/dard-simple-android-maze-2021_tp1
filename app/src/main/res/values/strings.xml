@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Juego de laberinto basico</string>
+    <string name="title_activity_main">LABERINTO</string>
+    <string name="todo">TODO</string>
+    <string name="title">LABERINTO</string>
+    <string name="play">JUGAR</string>
+    <string name="please_select_game">Por favor elegi un juego!</string>
+    <string name="or_create_a_new_game">O crea un nuevo juego!</string>
+    <string name="name">NOMBRE</string>
+    <string name="game">JUEGO</string>
+    <string name="up">ARRIBA</string>
+    <string name="down">ABAJO</string>
+    <string name="left">IZQUIERDA</string>
+    <string name="right">DERECHA</string>
+</resources>
